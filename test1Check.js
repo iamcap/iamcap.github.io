@@ -6,5 +6,5 @@ function wait(ms) {
   }
 }
 console.log("execution started");
-wait(10000);
+wait(60000);
 console.log("execution ended");
